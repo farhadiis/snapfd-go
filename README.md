@@ -14,10 +14,10 @@
 To deploy this project clone it and run
 
 ```bash
-  $ git clone https://github.com/farhadiis/snapfd-go.git
-  $ cd snapfd-go
-  $ ./build.sh
-  $ ./run.sh
+  git clone https://github.com/farhadiis/snapfd-go.git
+  cd snapfd-go
+  sudo ./build.sh
+  sudo ./run.sh
 ```
 
 ## Running Tests
